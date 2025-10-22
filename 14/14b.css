@@ -1,0 +1,40 @@
+.first-div {
+  color: white;
+  background-color: rgb(69, 209, 69);
+  position: fixed;
+  bottom:0px;
+  top:0px;
+  right: 0px;
+  left: 1439px;
+  width: 100px;
+}
+.second-div {
+  background-color: white;
+  width: 320px;
+  height: 120px;;
+  position: fixed;
+  left: 1160px;
+  top: 200px;
+  border-radius: 10px;
+}
+body {
+  background-color: rgb(163, 160, 160);
+}
+.title {
+  font-weight: bold;
+  font-size: 23px;
+  margin-bottom: 0px;
+  margin-top: 15px;
+}
+.the-modal {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+p {
+  font-family: arial, sans-serif;
+  margin-left: 15px;
+}
+button {
+  margin-left: 15px;
+  margin-bottom: 25px;
+}

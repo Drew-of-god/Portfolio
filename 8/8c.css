@@ -1,0 +1,13 @@
+img {
+        width:200px;
+        margin-left: 650px;
+        display: block;
+      }
+      input  {
+        padding:5px;
+        width: 390px;
+        margin-left: 550px;
+        border-radius: 12px;
+        border: none;
+        box-shadow: 1px 0px 1px gray;
+      }

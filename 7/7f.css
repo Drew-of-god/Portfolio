@@ -1,0 +1,27 @@
+  p {
+        color: gray;
+        font-family: arial;
+        font-size: 11px;
+      }
+      .email {
+        margin-bottom: 0px;
+      }
+      .blank {
+        border: 2px solid;
+        border-radius: 4px;
+        margin-top: 5px;
+        margin-bottom: 8px;
+        color: gray;
+        padding: 7px;
+        width: 250px;
+      }
+      .agree-button {
+        color: white;
+        border-radius: 20px;
+        background-color: rgb(49, 97, 229);
+        padding: 12px;
+        border: none; 
+        padding-left: 95px;
+        padding-right: 95px;
+        cursor: pointer;
+      }
